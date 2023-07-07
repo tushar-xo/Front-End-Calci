@@ -1,3 +1,3 @@
 # Front-End-Calci
-Took the challenge to make a calculator using Front End.
-Needed a bit of a refresh from the generic Android Development, so just went with this one for now!
+I took on the challenge of making a calculator using Front End.
+I needed a bit of a refresh from the generic Android Development, so I just went with this one for now!
